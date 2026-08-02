@@ -20,30 +20,30 @@
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-%23232F3E.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-%23FF5722.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 #### 📱 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter_Web-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-%23414548.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Riverpod-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-414548?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-000000?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ---
@@ -57,7 +57,13 @@
 
 ---
 
-### 📬 Contact
+### 📭 Contact
 
-* **LinkedIn:** [mdmumitulislam516](https://linkedin.com)
-* **Email:** [mdmumitulislam516@gmail.com](mailto:mdmumitulislam516@gmail.com)
+<p>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdmumitulislam516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
