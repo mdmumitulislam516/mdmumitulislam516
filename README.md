@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mumitul Islam</h1>
-<h3 align="center">Flutter Developer @VividsoftLab | CSE Grad | Mobile App Specialist</h3>
+<h3 align="center">Flutter Developer @VividsoftLab | CSE Grad | Mobile & Web App Specialist</h3>
 
 <p align="center">
   A passionate Computer Science & Engineering graduate and Flutter Developer focused on building high-performance cross-platform mobile and web applications with clean architecture and pixel-perfect UIs.
@@ -12,7 +12,6 @@
 * **Program:** B.Sc. in Computer Science and Engineering
 * **Institution:** Varendra University
 * **Duration:** 2022 - January 2026
-* **CGPA:** 3.26/4.00
 
 ---
 
