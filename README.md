@@ -57,7 +57,7 @@
 
 ---
 
-### 📭 Contact
+### 📬 Contact
 
 <p>
   <a href="https://linkedin.com">
