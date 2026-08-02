@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md. Mumitul Islam</h1>
-<h3 align="center">Flutter Developer @VividsoftLab | CSE Grad | Mobile App Specialist</h3>
 
 <p align="center">
-  A passionate Computer Science & Engineering graduate[cite: 1] and Flutter Developer focused on building high-performance cross-platform mobile and web applications with clean architecture and pixel-perfect UIs[cite: 1].
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+Developer+%40VividsoftLab;Mobile+%26+Web+App+Engineer;CSE+Graduate+%7C+App+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  A passionate Computer Science & Engineering graduate and Flutter Developer focused on building high-performance cross-platform mobile and web applications with clean architecture and pixel-perfect UIs[cite: 1].
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmumitulislam516&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmumitulislam516&show_icons=true&theme=radical&hide_border=true&bg_color=151515" alt="GitHub Stats" />
 </p>
 
 ---
