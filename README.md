@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streak (Animated)
+### 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdmumitulislam516&show_icons=true&theme=radical&hide_border=true&bg_color=151515" alt="GitHub Stats" />
@@ -84,4 +84,8 @@
   <a href="mailto:mdmumitulislam516@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdmumitulislam516&style=flat-square&color=blue" alt="Profile Views" />
 </p>
