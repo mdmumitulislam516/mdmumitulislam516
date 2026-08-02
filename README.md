@@ -32,22 +32,22 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter_Web-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-%23414548.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Riverpod-%23000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-%23414548.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riverpod-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 #### 🗄️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-%2302303A.svg?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
 #### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-%23232F3E.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-%23FF5722.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-%23232F3E.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-%23FF5722.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Platforms
