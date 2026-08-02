@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mumitul Islam</h1>
-<h3 align="center">Flutter Developer @VividsoftLab | CSE Grad | Mobile & Web App Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+Developer+%40VividsoftLab;Mobile+%26+Web+App+Engineer;CSE+Graduate+%7C+App+Specialist" alt="Typing SVG" />
+</p>
 
 <p align="center">
   A passionate Computer Science & Engineering graduate and Flutter Developer focused on building high-performance cross-platform mobile and web applications with clean architecture and pixel-perfect UIs.
